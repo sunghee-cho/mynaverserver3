@@ -20,5 +20,6 @@ jenkins용 테스트
 <h3>2> jenkins server와 연동한다</h3>
 <h3>3> push  발생시  jenkins가  빌드 배포한다</h3>
 <h3>4> 결과 확인한다(추가)</h3>
+<h3>4> 결과 확인한다2(추가2)</h3>
 </body>
 </html>
